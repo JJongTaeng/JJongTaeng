@@ -6,6 +6,9 @@
 [![쫑탱의 github](https://github-readme-stats.vercel.app/api?username=JJongTaeng&show_icons=true&theme=tokyonight)](https://github.com/JJongTaeng)
 - 🌱 I’m currently learning JavaScript / Node.js / React
 
+진행중인 프로젝트
+ - Clone Instagram
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongTaeng&layout=compact)](https://github.com/JJongTaeng)
 
 <!--
