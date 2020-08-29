@@ -6,8 +6,6 @@
 [![쫑탱의 github](https://github-readme-stats.vercel.app/api?username=JJongTaeng&show_icons=true&theme=tokyonight)](https://github.com/JJongTaeng)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongTaeng&layout=compact)](https://github.com/JJongTaeng)
 - 🌱 I’m currently learning JavaScript / Node.js / React
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongTaeng&layout=compact)](https://github.com/JJongTaeng)
-
 
 <!--
 **JJongTaeng/JJongTaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
