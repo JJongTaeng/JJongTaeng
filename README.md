@@ -4,7 +4,8 @@
 
 <!-- [![쫑탱의 github](https://github-readme-stats.vercel.app/api?username=JJongTaeng&show_icons=true&theme=tokyonight)](https://github.com/JJongTaeng) -->
 
-- 🌱 I’m currently learning JavaScript / Node.js / React
+- 🌱 I am a web frontend developer.
+- 😄 I use JavaScript, TypeScript, and React.
 
 
 
