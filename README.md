@@ -2,8 +2,8 @@
 
 - 🌱 I am a web frontend developer.
 - 😄 I use JavaScript, TypeScript, and React.
-
-
+- 🔭 Wondering who I am? [Blog](https://jjongtaeng.tistory.com)
+- 📫 How to reach me [Resume](https://jjongtaeng.github.io/friendly-resume)
 
 
 <!--
